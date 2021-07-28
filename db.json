@@ -13,10 +13,10 @@
       "reminder": true
     },
     {
-      "text": "take test",
-      "day": "monday, 9:00am",
+      "text": "do react project",
+      "day": "1 aug 9:00 am",
       "reminder": false,
-      "id": 3
+      "id": 4
     }
   ]
 }
