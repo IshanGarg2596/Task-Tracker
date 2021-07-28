@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+#Task Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A Task Tracker react app.
 
 ## Available Scripts
 
-In the project directory, you can run:
+You can run:
 
 ### `npm start`
 
